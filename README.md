@@ -1,2 +1,2 @@
 # Spoj
-Classical
+This Repository contain the SPOJ classical Questions.
